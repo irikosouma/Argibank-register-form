@@ -1,0 +1,117 @@
+/* .ff0{font-family:sans-serif;visibility:hidden;} */
+@font-face{font-family:ff1;src:url('../../../../assets/fonts/f1.woff')format("woff");}.ff1{font-family:ff1;line-height:1.106934;font-style:normal;font-weight:normal;visibility:visible;}
+@font-face{font-family:ff2;src:url('../../../../assets/fonts/f2.woff')format("woff");}.ff2{font-family:ff2;line-height:1.106934;font-style:normal;font-weight:normal;visibility:visible;}
+@font-face{font-family:ff3;src:url('../../../../assets/fonts/f3.woff')format("woff");}.ff3{font-family:ff3;line-height:1.106934;font-style:normal;font-weight:normal;visibility:visible;}
+@font-face{font-family:ff4;src:url('../../../../assets/fonts/f4.woff')format("woff");}.ff4{font-family:ff4;line-height:1.106934;font-style:normal;font-weight:normal;visibility:visible;}
+@font-face{font-family:ff5;src:url('../../../../assets/fonts/f5.woff')format("woff");}.ff5{font-family:ff5;line-height:1.106934;font-style:normal;font-weight:normal;visibility:visible;}
+@font-face{font-family:ff6;src:url('../../../../assets/fonts/f6.woff')format("woff");}.ff6{font-family:ff6;line-height:1.106934;font-style:normal;font-weight:normal;visibility:visible;}
+@font-face{font-family:ff7;src:url('../../../../assets/fonts/f7.woff')format("woff");}.ff7{font-family:ff7;line-height:1.000000;font-style:normal;font-weight:normal;visibility:visible;}
+.ff0{font-family:'Times New Roman';visibility:hidden;}
+.m0{transform:matrix(0.250000,0.000000,0.000000,0.250000,0,0);-ms-transform:matrix(0.250000,0.000000,0.000000,0.250000,0,0);-webkit-transform:matrix(0.250000,0.000000,0.000000,0.250000,0,0);}
+.v0{vertical-align:0.000000px;}
+.ls4{letter-spacing:-0.144000px;}
+.ls2{letter-spacing:-0.096000px;}
+.ls0{letter-spacing:0.000000px;}
+.ls1{letter-spacing:0.096000px;}
+.ls3{letter-spacing:0.144000px;}
+.sc_{text-shadow:none;}
+.sc0{text-shadow:-0.015em 0 transparent,0 0.015em transparent,0.015em 0 transparent,0 -0.015em  transparent;}
+@media screen and (-webkit-min-device-pixel-ratio:0){
+.sc_{-webkit-text-stroke:0px transparent;}
+.sc0{-webkit-text-stroke:0.015em transparent;text-shadow:none;}
+}
+.ws0{word-spacing:0.000000px;}
+._6{margin-left:-10.864000px;}
+._8{margin-left:-8.104000px;}
+._7{margin-left:-6.880000px;}
+._5{margin-left:-4.320000px;}
+._4{margin-left:-3.119680px;}
+._0{margin-left:-1.192320px;}
+._2{width:2.008000px;}
+._1{width:10.424000px;}
+._3{width:14.240000px;}
+.fc0{color:rgb(0,0,0);}
+.fs0{font-size:44.160000px;}
+/* 44 */
+.fs3{font-size:47.000000px;}
+/* 48 */
+.fs4{
+  font-size:48.000000px;
+}
+.fs5{font-size:44.000000px;}
+.fs2{font-size:51.840000px;}
+.fs1{font-size:56.160000px;}
+.y1{bottom:0.000000px;}
+.y7{bottom:2.760000px;}
+.y6{bottom:26.760000px;}
+.y3{bottom:31.920000px;}
+.y8{bottom:42.720000px;}
+.y2{bottom:59.280000px;}
+.y1f{bottom:79.200000px;}
+.y1e{bottom:107.060000px;}
+.y1d{bottom:134.900000px;}
+.y1c{bottom:162.620000px;}
+.y1b{bottom:190.460000px;}
+.y1a{bottom:218.300000px;}
+.y19{bottom:246.020000px;}
+.y18{bottom:273.890000px;}
+.y17{bottom:301.730000px;}
+.y16{bottom:329.450000px;}
+
+.y15{bottom:367.290000px;}
+.y14{bottom:395.010000px;}
+.y13{bottom:422.850000px;}
+.y12{bottom:450.710000px;}
+.y11{bottom:478.430000px;}
+.y10{bottom:492.230000px;}
+.yf{bottom:520.070000px;}
+.ye{bottom:547.910000px;}
+.yd{bottom:575.630000px;}
+.yc{bottom:603.710000px;}
+.yb{bottom:631.940000px;}
+.ya{bottom:659.780000px;}
+.y9{bottom:687.740000px;}
+.y5{bottom:712.940000px;}
+.y0{bottom:739.500000px;}
+.y4{bottom:824.920000px;}
+.h9{height:43.031250px;}
+/* 43 */
+.h2{height:43.922812px;}
+/* 43 */
+.h5{height:46.618125px;}
+/* 46.618125px */
+.h8{height:49.898438px;}
+/* 49 */
+.h7{height:50.671875px;}
+/* 50.671875px */
+.h6{height:54.725625px;}
+/* 54 */
+.h3{height:59.286094px;}
+/* 59 */
+.h1{height:68.500000px;}
+/* 68 */
+.h4{height:94.824000px;}
+/* 94 */
+.h0{height:842.040000px;}
+.w1{width:233.500000px;}
+/* 233.500000px */
+.w4{width:262.270000px;}
+/* 262.270000px */
+.w3{width:269.450000px;}
+/* 269.450000px */
+.w2{width: 595.319991px;}
+/* 595.319991px */
+/* .t{margin: 40px 0;} */
+.w0{width:595px; margin: 0 auto}
+.x1{left:0.000009px;}
+.x6{left:5.400000px;}
+.x3{left:23.039991px;}
+.xb{left:28.079991px;}
+.x4{left:37.200000px;}
+.x0{left:42.500000px;}
+.x8{left:155.930000px;}
+.x9{left:159.619991px;}
+.xa{left:205.609991px;}
+.x5{left:238.610000px;}
+.x7{left:306.650000px;}
+.x2{left:575.759991px;}
